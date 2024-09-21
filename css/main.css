@@ -1,0 +1,33 @@
+li, p b {
+    font-size: 20px;
+}
+
+.big-text {
+    font-size: 30px;
+}
+
+#green, h3 {
+    color: green;
+}
+
+p b {
+    font-size: 20px;
+}
+
+h2 + p {
+    text-align: right;
+}
+
+.big-text ~ li {
+    color: violet;
+}
+
+body b {
+    color: blue!important;
+}
+
+p, b.big-text.link {
+    color: red!important;
+}
+
+
